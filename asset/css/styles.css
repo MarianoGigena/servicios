@@ -1,9 +1,38 @@
 .menu-servicios {
-    font-size: 2rem;
+    height: 100px;
+    font-size: 1rem;
     background-color: lightgray;
-    width: 400px;
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
 }
 
+h1 {
+    text-align: center;
+}
+
+#imagen-arba,
+#imagen-aysa,
+#imagen-edenor,
+#imagen-naturgy,
+#imagen-telecentro {
+
+    width: 100px;
+    margin: 100px;
+
+}
+
+
 .servicios-titulo {
-    font-size: 3rem;
+    margin: 15px;
+    text-align: center;
+}
+
+.servicios-titulo img {
+    width: 200px;
+
+
 }
