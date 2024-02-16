@@ -1,12 +1,14 @@
 .menu-servicios {
     height: 100px;
     font-size: 1rem;
-    background-color: rgb(251, 237, 237);
+    background-color: rgb(222, 246, 156);
     width: auto;
     display: flex;
     flex-direction: row;
+
     justify-content: center;
     align-items: center;
+
 
 }
 
